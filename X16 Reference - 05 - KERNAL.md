@@ -1095,8 +1095,8 @@ The keyboard joystick uses the standard SNES9X/ZSNES mapping:
 | B              | Z            | Left Alt          |
 | X              | S            |                   |
 | Y              | A            |                   |
-| LEFT SHOULDER  | D            |                   |
-| RIGHT SHOULDER | C            |                   |
+| L (SHOULDER)   | D            |                   |
+| R (SHOULDER)   | C            |                   |
 | START          | Enter        |                   |
 | SELECT         | Left Shift   |                   |
 | D-Pad          | Cursor Keys  |                   |
